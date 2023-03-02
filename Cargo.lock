@@ -2000,7 +2000,7 @@ dependencies = [
  "failure",
  "futures 0.3.21",
  "sgxs-loaders",
- "tokio 0.2.25",
+ "tokio 1.19.2",
 ]
 
 [[package]]
